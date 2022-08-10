@@ -13,7 +13,7 @@ Your browser will look like this:
 ![fitnesstracker-activities](https://user-images.githubusercontent.com/62524957/184007178-ecc6c720-6717-495e-ae33-408cc700329c.png)
 
 ## Other features of Fitness Tracker
-There are many more routes that are built out for the API such as ones handling user register/login, updating activities/routines, deleting activities/routines, fetching activities/routines by their name or ID, and many many more. 
+There are many more routes that are built out for the API such as ones handling user register/login, updating activities/routines, deleting activities/routines, fetching activities/routines by their name or ID, and many many more. Go ahead and take a look at a project I am very proud of.
 
 
 
